@@ -1,1 +1,3 @@
-export const jwtSecret = 'amitphadtare';
+export const jwtConstants = {
+  secret: 'amitphadtare',
+};
